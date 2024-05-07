@@ -1,0 +1,53 @@
+Game Matchup,Probability Home Win,Probability Draw,Probability Away Win,Predicted Result
+Bournemouth vs Brentford,30.0,35.0,35.0,Draw
+Everton vs Sheffield United,61.0,23.0,16.0,Home Win
+Fulham vs Manchester City,20.0,20.0,60.0,Away Win
+Newcastle United vs Brighton,45.0,19.0,36.0,Home Win
+Nottingham Forest vs Chelsea,27.0,19.0,54.0,Away Win
+Tottenham vs Burnley,79.0,12.0,9.0,Home Win
+West Ham vs Luton,39.0,32.0,29.0,Home Win
+Wolverhampton Wanderers vs Crystal Palace,32.0,23.0,45.0,Away Win
+Manchester United vs Arsenal,24.0,21.0,55.0,Away Win
+Aston Villa vs Liverpool,26.0,25.0,49.0,Away Win
+Tottenham vs Manchester City,21.0,25.0,54.0,Away Win
+Alaves vs Girona,23.0,24.0,53.0,Away Win
+Athletic Club vs Osasuna,61.0,31.0,8.0,Home Win
+Granada vs Real Madrid,10.0,7.0,83.0,Away Win
+Mallorca vs Las Palmas,41.0,22.0,37.0,Home Win
+Villarreal vs Sevilla,47.0,28.0,25.0,Home Win
+Atletico Madrid vs Celta Vigo,72.0,14.0,14.0,Home Win
+Cadiz vs Getafe,35.0,33.0,32.0,Home Win
+Real Betis vs Almeria,72.0,21.0,7.0,Home Win
+Valencia vs Rayo Vallecano,37.0,31.0,32.0,Home Win
+Barcelona vs Real Sociedad,64.0,16.0,20.0,Home Win
+Girona vs Villarreal,56.0,28.0,16.0,Home Win
+Osasuna vs Mallorca,47.0,32.0,21.0,Home Win
+Real Madrid vs Alaves,83.0,12.0,5.0,Home Win
+Brest vs Reims,50.0,28.0,22.0,Home Win
+Nice vs Le Havre,58.0,30.0,12.0,Home Win
+Clermont Foot vs Lyon,35.0,22.0,43.0,Away Win
+Marseille vs Lorient,83.0,11.0,6.0,Home Win
+Montpellier vs Monaco,30.0,20.0,50.0,Away Win
+Nantes vs Lille,21.0,21.0,58.0,Away Win
+Paris Saint Germain vs Toulouse,84.0,13.0,3.0,Home Win
+Rennes vs Lens,42.0,27.0,31.0,Home Win
+Strasbourg vs Metz,50.0,36.0,14.0,Home Win
+Augsburg vs VfB Stuttgart,18.0,13.0,69.0,Away Win
+Borussia M.Gladbach vs Eintracht Frankfurt,25.0,26.0,49.0,Away Win
+FC Cologne vs Union Berlin,35.0,27.0,38.0,Away Win
+Freiburg vs FC Heidenheim,40.0,28.0,32.0,Home Win
+Mainz 05 vs Borussia Dortmund,21.0,22.0,57.0,Away Win
+RasenBallsport Leipzig vs Werder Bremen,81.0,16.0,3.0,Home Win
+Bayern Munich vs Wolfsburg,76.0,14.0,10.0,Home Win
+Bochum vs Bayer Leverkusen,13.0,13.0,74.0,Away Win
+Darmstadt vs Hoffenheim,32.0,26.0,42.0,Away Win
+Frosinone vs Inter,18.0,10.0,72.0,Away Win
+AC Milan vs Cagliari,85.0,10.0,5.0,Home Win
+Napoli vs Bologna,58.0,22.0,20.0,Home Win
+Atalanta vs Roma,47.0,25.0,28.0,Home Win
+Genoa vs Sassuolo,47.0,25.0,28.0,Home Win
+Juventus vs Salernitana,80.0,12.0,8.0,Home Win
+Lazio vs Empoli,63.0,28.0,9.0,Home Win
+Verona vs Torino,34.0,24.0,42.0,Away Win
+Fiorentina vs Monza,59.0,24.0,17.0,Home Win
+Lecce vs Udinese,41.0,27.0,32.0,Home Win
